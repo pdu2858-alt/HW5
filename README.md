@@ -1,4 +1,4 @@
-DEMO：
+Demo：https://l2imymq7jhyym3bzjpznug.streamlit.app/
 
 📘 AI vs Human Text Detector (AI 生成文本偵測器)
 📝 專案簡介 (Project Overview)
